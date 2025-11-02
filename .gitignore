@@ -1,0 +1,4 @@
+/.pytest_cache
+/.selfevolve
+/.venv
+/.vscode

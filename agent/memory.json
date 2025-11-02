@@ -1,0 +1,16 @@
+{
+  "heuristics": [
+    {
+      "tag": "none_guard",
+      "pattern": "TypeError: .*NoneType",
+      "advice": "Guard None inputs or provide defaults before arithmetic/attribute access."
+    },
+    {
+      "tag": "off_by_one",
+      "pattern": "AssertionError.*==",
+      "advice": "Check +/- 1 around arithmetic or index bounds. Verify len/slicing."
+    }
+  ],
+  "fix_snippets": [],
+  "_updated_at": 1762046014
+}
