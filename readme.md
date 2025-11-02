@@ -5,7 +5,7 @@ A Python-based automated code repair system that learns and evolves to fix commo
 ## Features
 
 - 🔄 Self-evolving repair strategies using pattern recognition
-- 🔍 Heuristic-based bug detection and fixing
+- 🔍 Heuristic-based bug detection and fixing (created by the LLM)
 - 📝 Memory system to learn from previous fixes
 - 🌐 Web-assisted knowledge gathering using Firecrawl
 - 🧪 Automated test execution and validation
