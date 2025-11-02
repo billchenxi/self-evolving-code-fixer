@@ -1,6 +1,6 @@
 # Self-Evolving Code Fixer
 
-A Python-based automated code repair system that learns and evolves to fix common programming bugs using heuristic patterns and web-assisted knowledge.
+A Python-based automated code repair system that learns and evolves to fix common programming bugs using LLM and web-assisted knowledge.
 
 ## Features
 
